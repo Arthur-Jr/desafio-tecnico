@@ -16,7 +16,7 @@ npm install
   
 * Exemplo do end-point da requisição rodando localmente:
 
-  ![/requisicao](./public/requisicao)
+  ![/requisicao](./public/requisicao.png)
 
 ## Executando Testes
 
