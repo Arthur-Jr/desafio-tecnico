@@ -22,6 +22,7 @@ npm install
 
 * Para rodar todos os testes:
 
+    Com o npm start desativado.
   ```
     npm test
   ```
